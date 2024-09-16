@@ -3,8 +3,8 @@
 def madlib(verb_1,verb_2,verb_3,noun_1,noun_2,noun_3,adjective_1,adjective_2):
     '''Mad lib fucntion'''
     story =f'''
-It was a {adjective_1} day when I decided to take my chihuaha, named 
-Mia, to the dog park. As soon as we arrived, my chihuaha spotted a 
+It was a {adjective_1} day when I decided to take my chihuahua, named 
+Mia, to the dog park. As soon as we arrived, my chihuahua spotted a 
 french bulldog chasing a {noun_1}. My dog immediately {verb_1} over to join in.
 They ran around the park, their tails wagging with excitement.
 
